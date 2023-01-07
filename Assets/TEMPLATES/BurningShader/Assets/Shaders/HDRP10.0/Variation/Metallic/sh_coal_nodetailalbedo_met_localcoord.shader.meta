@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 16fa3082faecb8c41beeb37490f858be
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CoalMasks: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

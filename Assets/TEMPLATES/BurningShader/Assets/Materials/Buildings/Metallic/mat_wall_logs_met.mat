@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mat_wall_logs_met
+  m_Shader: {fileID: 4800000, guid: 7185ce3cb2883d344bd925843720f864, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CoalMasks:
+        m_Texture: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CoalNormal:
+        m_Texture: {fileID: 2800000, guid: f91c76d43b07b034ba951400ad8c3133, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 2800000, guid: a0fff3e053e70494ba9c91d152aeffa0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailWood:
+        m_Texture: {fileID: 2800000, guid: 69c23a9535a4c2143bdfda7b563b993a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailWoodAlbedo:
+        m_Texture: {fileID: 2800000, guid: 69c23a9535a4c2143bdfda7b563b993a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailWoodNormal:
+        m_Texture: {fileID: 2800000, guid: 017469a3ea9ca3e4ea89e14f79a6e221, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Masks:
+        m_Texture: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 94794be046e205e43ae6ffbb2309b2a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: 2344b35587f2f81458554906c42cc613, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 604522862b6ef664cb59e33465b16406, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample3:
+        m_Texture: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample4:
+        m_Texture: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample5:
+        m_Texture: {fileID: 2800000, guid: 2d479324bd85dcd4facb271ae1f53661, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TriplanarMap:
+        m_Texture: {fileID: 2800000, guid: 86104a73ce569514d93898e3cd85d452, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WoodAlbedo:
+        m_Texture: {fileID: 2800000, guid: 518249a30c8ae754ba6ace7438dae717, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WoodAlbedo_SmA:
+        m_Texture: {fileID: 2800000, guid: 67d6d927e75e1472d93b786861d54640, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WoodAoMet_AOR_MetG:
+        m_Texture: {fileID: 2800000, guid: 8cba82c5350f91d46ad8e6539ff3c81f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WoodNormal:
+        m_Texture: {fileID: 2800000, guid: f56e8c73d755f2347b44412fc6ad9b0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WoodOcclusion_AOR:
+        m_Texture: {fileID: 2800000, guid: 8cba82c5350f91d46ad8e6539ff3c81f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _new:
+        m_Texture: {fileID: 2800000, guid: 86104a73ce569514d93898e3cd85d452, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _wood_tiled_02_n:
+        m_Texture: {fileID: 2800000, guid: 017469a3ea9ca3e4ea89e14f79a6e221, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _wood_tiled_03_a:
+        m_Texture: {fileID: 2800000, guid: a0fff3e053e70494ba9c91d152aeffa0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AshesPower: 3.64
+    - _CinderLow: 1.96
+    - _CinderPower: 0.32
+    - _CinderSidePower: 0.15
+    - _CoalNoiseScale: 0.58
+    - _FirePower: 1
+    - _Float0: 0.2
+    - _Float1: 9.58
+    - _Float10: 2.24
+    - _Float11: 1.52
+    - _Float12: 1.79
+    - _Float14: 0.1
+    - _Float15: 0.92
+    - _Float16: 3.02
+    - _Float17: 0.22
+    - _Float2: 0.12
+    - _Float3: 5.54
+    - _Float4: 1
+    - _Float5: 1.903
+    - _Float6: 1
+    - _Float7: 1
+    - _Float8: 16
+    - _Float9: 0.56
+    - _SpecConst: 0
+    - _StartBurning: 0
+    - _StopBurning: 0
+    - _TriplanarPower: 0.2
+    - _TriplanarScale: 0.2
+    - _WindNoiseScale: 0.58
+    - _WoodDarkness: -0.32
+    - _WoodSm: 0.1
+    - _WoodSmPower: -1.08
+    - _WoodSmoothness: 0.3
+    - __dirty: 0
+    m_Colors:
+    - _CoalColor: {r: 7.9066987, g: 2.6079686, b: 1.3660789, a: 0}
+    - _CoalNoiseUVPanner: {r: 0.15, g: 0, b: 0, a: 0}
+    - _Color0: {r: 0.1981132, g: 0.17830189, b: 0.1485849, a: 1}
+    - _Color1: {r: 0.122641504, g: 0.09867518, b: 0.03875934, a: 1}
+    - _Color2: {r: 0.7169812, g: 0.68034977, b: 0.6121396, a: 1}
+    - _SpecColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Specular: {r: 0.2735849, g: 0.2232556, b: 0.2232556, a: 0}
+    - _UVTiling: {r: 7, g: 7, b: 0, a: 0}
+    - _Vector0: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _Vector2: {r: 2, g: 2, b: 0, a: 0}
+    - _WindNoiseUVPanner: {r: 0.1, g: 0, b: 0, a: 0}

@@ -1,0 +1,20 @@
+{
+    "name": "Dreamteck.Forever.Editor",
+    "references": [
+        "Dreamteck.Forever",
+        "Dreamteck.Splines",
+        "Dreamteck.Utilities",
+        "Dreamteck.Utilities.Editor",
+        "Dreamteck.Splines.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

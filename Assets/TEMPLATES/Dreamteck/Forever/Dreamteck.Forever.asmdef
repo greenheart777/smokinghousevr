@@ -1,0 +1,15 @@
+{
+    "name": "Dreamteck.Forever",
+    "references": [
+        "Dreamteck.Splines",
+        "Dreamteck.Utilities"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
